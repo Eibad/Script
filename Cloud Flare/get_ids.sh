@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Cloudflare API URL
-url="https://api.cloudflare.com/client/v4/zones/0ddcd29980f96e45b512331c6e9f2e92/dns_records?per_page=400"
+url="https://api.cloudflare.com/client/v4/zones/0ddcd29980f96ec6e9f2e92/dns_records?per_page=400"
 
 # Cloudflare API Token
-auth_token="Ntw1r3du-etaB0Kq9F3WJakF3oh-I1koTXSL73Pm"
+auth_token="Ntw1r3du-etaB0F3oh-I1koTXSL73Pm"
 
 # Curl command to fetch DNS records
 response=$(curl --location "$url" \
