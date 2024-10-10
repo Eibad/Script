@@ -1,0 +1,19 @@
+for permission
+chmod +x delete_records.sh
+
+
+for running the file 
+./delete_records.sh
+
+1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file1- first run script to get id of the domain
+2- then run dlete script to delete subdomain stored in id file
