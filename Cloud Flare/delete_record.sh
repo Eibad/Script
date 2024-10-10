@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Cloudflare API URL and token
-zone_id="0ddcd29980f96e45b512331c6e9f2e92"
-auth_token="Ntw1r3du-etaB0Kq9F3WJakF3oh-I1koTXSL73Pm"
+zone_id="0ddcd29980f96e1c6e9f2e92"
+auth_token="Ntw1r3du-etaB0Kq9oh-IkoTXSL73Pm"
 
 # Read each line (ID) from the ids.txt file and send DELETE request
 while IFS= read -r id; do
